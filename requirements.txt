@@ -1,0 +1,11 @@
+torch
+transformers
+accelerate
+bitsandbytes
+Pillow
+numpy
+pandas
+matplotlib
+gradio
+sentencepiece
+einops
