@@ -1,0 +1,26 @@
+Image,Question,LLaVa Answer,Human Evaluation
+/content/images/Airplane.jpeg,How many people are visible?,There are no people visible in the image.,Correct
+/content/images/Airplane.jpeg,What objects can you see?,I can see a large airplane flying in the sky.,Correct
+/content/images/Airplane.jpeg,Where are the people?,"The people are on the ground, watching the airplane flying in the sky.",Incorrect
+/content/images/Airplane.jpeg,What are they doing?,The people in the image are flying a large jet airplane. They are likely pilots or crew members responsible for operating and managing the aircraft during its flight.,Incorrect
+/content/images/Airplane.jpeg,What is visible in the background?,"In the background, there is a blue sky visible.",Correct
+/content/images/Airplane2.jpeg,How many people are visible?,There are no people visible in the image.,Correct
+/content/images/Airplane2.jpeg,What objects can you see?,"In the image, you can see a large airplane, specifically a United airplane, flying through the sky.",Correct
+/content/images/Airplane2.jpeg,Where are the people?,"The people are not visible in the image. They are likely on the ground, either at the airport or at their destination, as the airplane is flying in the sky.",Correct
+/content/images/Airplane2.jpeg,What are they doing?,"The people in the image are flying a large jetliner, which is a commercial airplane. They are likely pilots or crew members responsible for operating the aircraft during its flight.",Incorrect
+/content/images/Airplane2.jpeg,What is visible in the background?,"In the background, there is a cloudy sky.",Correct
+/content/images/Bird1.jpg,How many people are visible?,There are no people visible in the image. The focus is on the bird sitting on the branch.,Correct
+/content/images/Bird1.jpg,What objects can you see?,"I can see a bird perched on a branch, and a bird feeder.",Incorrect
+/content/images/Bird1.jpg,Where are the people?,The people are not visible in the image. The focus is on the small yellow and black bird perched on a branch.,Correct
+/content/images/Bird1.jpg,What are they doing?,"The bird is sitting on a branch, possibly resting or observing its surroundings.",Correct
+/content/images/Bird1.jpg,What is visible in the background?,"In the background, there is a tree visible.",Incorrect
+/content/images/Bird2.jpg,How many people are visible?,There are no people visible in the image. The focus is on the bird sitting on the branch.,Correct
+/content/images/Bird2.jpg,What objects can you see?,"In the image, you can see a bird sitting on a branch, a tree, and a log.",Incorrect
+/content/images/Bird2.jpg,Where are the people?,"The people are not visible in the image. The focus is on the bird, which is perched on a branch.",Correct
+/content/images/Bird2.jpg,What are they doing?,"The bird is sitting on a branch, possibly resting or observing its surroundings.",Correct
+/content/images/Bird2.jpg,What is visible in the background?,"In the background, there is a green field visible.",Incorrect
+/content/images/Building.jpeg,How many people are visible?,There are two people visible in the image.,Incorrect
+/content/images/Building.jpeg,What objects can you see?,"In the image, you can see a large building with a curved roof, a large glass building, and a large glass structure.",Correct
+/content/images/Building.jpeg,Where are the people?,"The people are inside the building, which is a large, modern-looking structure.",Incorrect
+/content/images/Building.jpeg,What are they doing?,"The people in the image are walking around and standing outside a large building, which appears to be a museum or a similar type of structure.",Incorrect
+/content/images/Building.jpeg,What is visible in the background?,"In the background, there is a blue sky visible.",Correct
